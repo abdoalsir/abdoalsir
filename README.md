@@ -5,7 +5,7 @@
 ## About Me!👦
 I'm a 4th year medical student passionate about data science and programming. I love the way I can use programming languages such as Python and SQL to create all these fascinating analyses and visualizations as well as going through huge datasets in a matter of seconds. I also love how these languages helped in the development and advancement of all industries whether the healthcare sector, engineering sector and even the computer sciences discipline as well. I dream to one day become a data scientist after I graduate from medical school. I love Audi and my dream car is an Audi RS7 Performance. I also dream of having a Koenigsegg Agera one day😅. My favoirite anime is **No Game No life** and my favorite character is **Kiyotaka Ayanokoji** from Classroom of the Elite.
 
-## 🎯What I'm working on now
+## What I'm working on now 🎯
 - 🌐 Building my first website project, inspired by a model design to enhance my organization’s online presence.
 - 📝 Drafting a research proposal on trauma surgeons preparedness for mass casualty incidents.
 - 💻 Exploring ways to integrate medicine and technology, from telemedicine platforms to health informatics.
@@ -52,4 +52,14 @@ I also have some project management and administrative roles volunteering experi
 - Chess
 - Anime 
 - Programming
-- Math
+- Probabilities
+
+
+# Good Bye!
+**Contact me at:**
+
+***Email:*** abdulrahmanalsir4@gmail.com
+
+***Phone:*** +249908115725 | +249117304942
+
+***Telegram:*** @abdo_alsir
