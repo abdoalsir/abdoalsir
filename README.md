@@ -1,6 +1,6 @@
 # Hi there, I'm Abdulrahman Sirelkhatim!🖐
 
-## *Medical Student | Aspiring Data Scientist | Global Health Advocate | Supporter of Digital Transformation of Health*
+## *Medical Student | Aspiring Data Scientist | Global Health Advocate*
 
 ## About Me! 👦
 
@@ -83,6 +83,6 @@ university, such as:
 
 ## **Contact me at:**
 
-**Email:** [abdulrahmanalsir4@gmail.com](mailto:abdulrahmanalsir4@gmail.com)<br>
-***Phone:*** +249908115725 | +249117304942 <br>
-***Telegram:*** @abdo_alsir
+- **Email:** [abdulrahmanalsir4@gmail.com](mailto:abdulrahmanalsir4@gmail.com)
+- ***Phone:*** +249908115725 | +249117304942
+- ***Telegram:*** [@abdo_alsir](https://t.me/abdo_alsir)
