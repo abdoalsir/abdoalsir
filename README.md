@@ -52,7 +52,7 @@ university, such as:
 | Organization Board Member for 3 consecutive terms | 2020 - 2023 |
 | Deputy Director of HR Department - SCSD           | 2024        |
 | Delegate to multiple conferences                  | 2021 - 2024 |
-| Presiden Elect - SUMSA                            | 2025        |
+| President Elect - SUMSA                            | 2025        |
 
 ## Technical Skills 🛠
 
