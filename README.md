@@ -82,37 +82,6 @@ university, such as:
 ---
 
 ## **Contact Me**
-<!-- It looks a lot more appealing like this -->
-<div style= 'display: flex; gap: 10px; align items: center;'>
-<a href="mailto:abdulrahmanalsir4@gmail.com" style="text-decoration: none;">
-  <div style="
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #D14836;
-    color: white;
-    border-radius: 5px;
-    font-size: 16px;
-    font-weight: bold;
-    text-align: center;
-    display: flex;
-    align-items: center;
-    gap: 10 px;
-  ">
-    Email
-  </div>
-</a>
-<a href="https://www.linkedin.com/in/abdulrahman-sirelkhatim-18585b22a" style="text-decoration: none;">
-  <div style="
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #0077B5;
-    color: white;
-    border-radius: 5px;
-    font-size: 16px;
-    font-weight: bold;
-    text-align: center;
-  ">
-    Connect on LinkedIn
-  </div>
-</a>
-</div>
+[**Email**](mailto:abdulrahmanalsir4@gmail.com)
+
+[**LinkedIn**]("https://www.linkedin.com/in/abdulrahman-sirelkhatim-18585b22a")
