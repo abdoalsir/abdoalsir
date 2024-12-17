@@ -41,17 +41,18 @@ university, such as:
 
 | Position                                          | Year        |
 |---------------------------------------------------|-------------|
-| Development Assistant                             | 2020        |
-| Local Exchange Officer                            | 2021        |
-| External Affairs Secretary                        | 2022        |
-| Capacity Building Assistant                       | 2022        |
-| Vice President for External Affairs               | 2022        |
-| Secretary General                                 | 2023        |
-| Acting President                                  | 2023        |
-| General Assistant                                 | 2023        |
+| Development Assistant - MedSIN-Sudan              | 2020        |
+| Local Exchange Officer - MedSIN-Sudan             | 2021        |
+| External Affairs Secretary - SUMSA                | 2022        |
+| Capacity Building Assistant - MedSIN-Sudan        | 2022        |
+| Vice President for External Affairs - MedSIN-Sudan| 2022        |
+| Secretary General - SUMSA                         | 2023        |
+| Acting President - SUMSA                          | 2023        |
+| General Assistant - MedSIN-Sudan                  | 2023        |
 | Organization Board Member for 3 consecutive terms | 2020 - 2023 |
-| Deputy Director of HR Department                  | 2024        |
+| Deputy Director of HR Department - SCSD           | 2024        |
 | Delegate to multiple conferences                  | 2021 - 2024 |
+| Presiden Elect - SUMSA                            | 2025        |
 
 ## Technical Skills 🛠
 
