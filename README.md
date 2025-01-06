@@ -27,7 +27,7 @@ platforms to health informatics.
 ## Experience 💼
 
 I have completed several data science projects after earning my IBM Data Science
- Professional Certificate, including:
+Professional Certificate, including:
 
 - **Australia Wildfire Analysis**: Data-driven insights into wildfire patterns
 and their impacts.
@@ -35,24 +35,24 @@ and their impacts.
 - **SPACEX Falcon 9 Landing Prediction**: Analysis and prediction of rocket
 landings.
 
-Additionally, I have volunteer experience in project management and
-administrative roles over the past 6 years, both within and outside of
-university, such as:
+Additionally, I completed Google Project Management Professional Certificate and
+I have volunteer experience in project management and administrative roles over
+the past 6 years, both within and outside of university, such as:
 
 | Position                                          | Year        |
 |---------------------------------------------------|-------------|
-| Development Assistant - MedSIN-Sudan              | 2020        |
-| Local Exchange Officer - MedSIN-Sudan             | 2021        |
-| External Affairs Secretary - SUMSA                | 2022        |
-| Capacity Building Assistant - MedSIN-Sudan        | 2022        |
-| Vice President for External Affairs - MedSIN-Sudan| 2022        |
-| Secretary General - SUMSA                         | 2023        |
-| Acting President - SUMSA                          | 2023        |
-| General Assistant - MedSIN-Sudan                  | 2023        |
+| Development Assistant - MedSIN-Sudan              | 2020 |
+| Local Exchange Officer - MedSIN-Sudan             | 2021 |
+| External Affairs Secretary - SUMSA                | 2022 |
+| Capacity Building Assistant - MedSIN-Sudan        | 2022 |
+| Vice President for External Affairs - MedSIN-Sudan| 2022 |
+| Secretary General - SUMSA                         | 2023 |
+| Acting President - SUMSA                          | 2023 |
+| General Assistant - MedSIN-Sudan                  | 2023 |
 | Organization Board Member for 3 consecutive terms | 2020 - 2023 |
-| Deputy Director of HR Department - SCSD           | 2024        |
+| Deputy Director of HR Department - SCSD           | 2024 |
 | Delegate to multiple conferences                  | 2021 - 2024 |
-| President Elect - SUMSA                           | 2025        |
+| President Elect - SUMSA                           | 2025 |
 
 ## Technical Skills 🛠
 
