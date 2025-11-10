@@ -1,7 +1,6 @@
 # Hi there, I'm Abdulrahman Sirelkhatim!🖐
 
-## *1st Generation Medical Student | Aspiring Data Scientist | 
-Global Health Advocate | MIT Emerging Talent Scholar*
+## *1st Generation Medical Student | Aspiring Data Scientist | Global Health Advocate | MIT Emerging Talent Scholar*
 
 ## About Me! 👦
 
