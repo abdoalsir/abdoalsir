@@ -1,10 +1,11 @@
 # Hi there, I'm Abdulrahman Sirelkhatim!🖐
 
-## *Medical Student | Aspiring Data Scientist | Global Health Advocate*
+## *1st Generation Medical Student | Aspiring Data Scientist | 
+Global Health Advocate | MIT Emerging Talent Scholar*
 
 ## About Me! 👦
 
-I'm a 4th-year medical student passionate about data science and programming.
+I'm a 5th-year medical student passionate about data science and programming.
 I love the way I can use programming languages such as Python and SQL to create
 fascinating analyses and visualizations, as well as process huge datasets in a
 matter of seconds. I also appreciate how these languages have driven the
@@ -17,10 +18,10 @@ My favorite anime is **No Game No Life**, and my favorite character is
 
 ## What I'm Working on Now 🎯
 
-- Building my first website project, inspired by a model design to enhance my
+- Maintaiong SCSD's website, inspired by a model design to enhance my
 organization’s online presence.
-- Drafting a research proposal on trauma surgeons' preparedness for mass
-casualty incidents.
+- Developing a monitoring and evaluation system for SUMSA with an app
+for all evaluation related tasks
 - Exploring ways to integrate medicine and technology, from telemedicine
 platforms to health informatics.
 
@@ -52,7 +53,7 @@ the past 6 years, both within and outside of university, such as:
 | Organization Board Member for 3 consecutive terms | 2020 - 2023 |
 | Deputy Director of HR Department - SCSD           | 2024 |
 | Delegate to multiple conferences                  | 2021 - 2024 |
-| President Elect - SUMSA                           | 2025 |
+| President - SUMSA                                 | 2025 |
 
 ## Technical Skills 🛠
 
