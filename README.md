@@ -1,6 +1,6 @@
 # Hi, I'm Abdulrahman Sirelkhatim 👋
 
-### Medical Graduate · Health Data Scientist · First-Generation Medical Graduate
+## Medical Graduate · Health Data Scientist · First-Generation Medical Graduate
 
 I'm a recently graduated doctor (MBBS, Sudan University of Science and Technology, 2026) who spent the last three years
 at the intersection of medicine and data science. I analyse clinical research data, build tools that solve real
@@ -28,9 +28,11 @@ documented methodology.
 
 ## 📊 Health Data Analysis Portfolio
 
-25 projects across clinical and public health research. Each repository contains the full analysis with documented methodology, code, and visualisations.
+25 projects across clinical and public health research. Each repository contains the full analysis with documented
+methodology, code, and visualisations.
 
 ### Infectious Disease & Public Health
+
 | # | Study | Degree | Year |
 |---|-------|--------|------|
 | 01 | [Malaria and Dengue Coinfection Among Febrile Patients — Port Sudan Teaching Hospital](https://github.com/abdoalsir/malaria-dengue-coinfection-port-sudan-2025) | MD | 2026 |
@@ -43,6 +45,7 @@ documented methodology.
 | 08 | [Infection Prevention Adherence Among Medical Students During Clinical Training](https://github.com/abdoalsir/ipc-adherence-oiu-2025) | MBBS | 2026 |
 
 ### Mental Health & Psychiatry
+
 | # | Study | Degree | Year |
 |---|-------|--------|------|
 | 09 | [Prevalence and Associated Factors of Depression Among Type 1 Diabetes Patients — Atbara Teaching Hospital](https://github.com/abdoalsir/depression-t1dm-atbra-2025) | MD | 2025 |
@@ -50,12 +53,14 @@ documented methodology.
 | 11 | [Impact of Clinical Rotation Stress on Psychological Wellbeing and Immune Health of Medical Students](https://github.com/abdoalsir/rotation-stress-immunity-oiu-2025) | MBBS | 2026 |
 
 ### Non-Communicable Diseases & Chronic Conditions
+
 | # | Study | Degree | Year |
 |---|-------|--------|------|
 | 12 | [Knowledge, Attitudes, and Practices Toward Non-Communicable Diseases — University of Gezira Medical Students](https://github.com/abdoalsir/ncd-kap-ugezira-2026) | Clinical Master | 2026 |
 | 13 | [Irritable Bowel Syndrome and Its Effect on Academic Performance — Omdurman Islamic University](https://github.com/abdoalsir/ibs-academic-performance-oiu-2025) | MBBS | 2026 |
 
 ### Medical Education Research
+
 | # | Study | Degree | Year |
 |---|-------|--------|------|
 | 14 | [Effect of ChatGPT Use on Learning and Academic Performance — Medical Students](https://github.com/abdoalsir/chatgpt-academic-performance) | MBBS | 2025 |
@@ -67,12 +72,14 @@ documented methodology.
 | 20 | [Barriers Influencing Postgraduate Career Decisions Among Ophthalmology Residents and Ophthalmologists in Sudan](https://github.com/abdoalsir/ophthalmology-career-decisions-sudan-2025) | MD | 2025 |
 
 ### Maternal, Child & Reproductive Health
+
 | # | Study | Degree | Year |
 |---|-------|--------|------|
 | 21 | [Family Planning Among Married Women of Reproductive Age — Kassala City](https://github.com/abdoalsir/family-planning-married-women-kassala-2025-) | MD | 2026 |
 | 22 | [Community Awareness of Well-Baby Clinic Services — Al-Kamleen Locality, Al-Gazira State](https://github.com/abdoalsir/wellbaby-kap-alkamleem-gezira-2026) | Clinical Master | 2026 |
 
 ### Healthcare Access & Systems
+
 | # | Study | Degree | Year |
 |---|-------|--------|------|
 | 23 | [Patient Satisfaction in Primary Healthcare Settings During the War in Sudan — Eleskan75 Centre](https://github.com/abdoalsir/patient-satisfaction-eleskan75-2025) | MD | 2025 |
