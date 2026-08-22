@@ -112,7 +112,7 @@ Chi-square · ANOVA · Sensitivity/Specificity · ROC curves · Longitudinal ana
 
 ## 🎓 Education & Certifications
 
-- **MBBS** — Sudan University of Science and Technology (2018–2026) · GPA 3.21/4.0 (Honors) · Rank 30/131
+- **MBBS** — Sudan University of Science and Technology (2018–2026) · GPA 3.2/4.0 (Honors) · Rank 22/127
 - **Certificate in Computer & Data Science** — MIT Emerging Talent Programme (2024–2025)
 - **IBM Data Science Professional Certificate** — Coursera (2024)
 - **DeepLearning.AI Mathematics for Machine Learning and Data Science** — Coursera (2025)
